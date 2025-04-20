@@ -1,0 +1,82 @@
+{
+  "sessions": [
+    {
+      "date": "2025-04-20 18:30:11",
+      "wpm": 28.474941263819908,
+      "accuracy": 100.0,
+      "difficulty": 2,
+      "text_type": "short",
+      "elapsed_time": 14.749810934066772,
+      "avg_reaction_time": 0.22189912796020508
+    },
+    {
+      "date": "2025-04-20 18:35:30",
+      "wpm": 33.67780352344964,
+      "accuracy": 100.0,
+      "difficulty": 2,
+      "text_type": "medium",
+      "elapsed_time": 53.44766616821289,
+      "avg_reaction_time": 0.22260425090789795
+    },
+    {
+      "date": "2025-04-20 18:47:03",
+      "wpm": 37.291275664074895,
+      "accuracy": 100.0,
+      "difficulty": 2,
+      "text_type": "short",
+      "elapsed_time": 11.262687921524048,
+      "avg_reaction_time": 0.14840567111968994
+    },
+    {
+      "date": "2025-04-20 19:04:09",
+      "wpm": 19.021046627232,
+      "accuracy": 100.0,
+      "difficulty": 2,
+      "text_type": "short",
+      "elapsed_time": 22.080803871154785,
+      "avg_reaction_time": 0.7052008628845214
+    },
+    {
+      "date": "2025-04-20 19:17:22",
+      "wpm": 24.548353649599367,
+      "accuracy": 100.0,
+      "difficulty": 2,
+      "text_type": "short",
+      "elapsed_time": 17.109090328216553,
+      "avg_reaction_time": 0.32769577503204345
+    }
+  ],
+  "performance_history": [
+    {
+      "wpm": 28.474941263819908,
+      "accuracy": 100.0,
+      "reaction_time": 0.22189912796020508,
+      "difficulty": 2
+    },
+    {
+      "wpm": 33.67780352344964,
+      "accuracy": 100.0,
+      "reaction_time": 0.22260425090789795,
+      "difficulty": 2
+    },
+    {
+      "wpm": 37.291275664074895,
+      "accuracy": 100.0,
+      "reaction_time": 0.14840567111968994,
+      "difficulty": 2
+    },
+    {
+      "wpm": 19.021046627232,
+      "accuracy": 100.0,
+      "reaction_time": 0.7052008628845214,
+      "difficulty": 2
+    },
+    {
+      "wpm": 24.548353649599367,
+      "accuracy": 100.0,
+      "reaction_time": 0.32769577503204345,
+      "difficulty": 2
+    }
+  ],
+  "user_level": 1
+}
