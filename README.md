@@ -1,2 +1,0 @@
-# TypingTest
-Las 205
